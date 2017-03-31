@@ -4,8 +4,8 @@ This is a fork of Google's Air Horn app that is designed to for running a PWA wo
 
 It demonstrates simple offline usage combined with simple audio looping via web audio.
 
-`master` branch is the completed app.
-`workshop` is the starting point for your workshop.
+* `master` branch is the completed app.
+* `workshop` is the starting point for your workshop.
 
 ## Installing
 
