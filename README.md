@@ -1,8 +1,11 @@
 # Air Horn
 
-A sample web app that lets you use your site as an airhorn.
+This is a fork of Google's Air Horn app that is designed to for running a PWA workshop.
 
 It demonstrates simple offline usage combined with simple audio looping via web audio.
+
+`master` branch is the completed app.
+`workshop` is the starting point for your workshop.
 
 ## Installing
 
@@ -12,7 +15,7 @@ Run the following command in the current working directory:
 
 ## Running
 
-To run the project with optimaztions in place and to support live reload run the following command:
+To run the project with optimiztions in place and to support live reload run the following command:
 
     gulp serve
 
