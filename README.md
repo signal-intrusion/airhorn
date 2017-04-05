@@ -7,6 +7,8 @@ It demonstrates simple offline usage combined with simple audio looping via web 
 * `master` branch is the completed app.
 * `workshop` is the starting point for your workshop.
 
+[WORKSHOP.md](./WORKSHOP.md) contains some instructions for turning airhorn into a PWA. Just checkout `workshop` and follow the steps.
+
 ## Installing
 
 Run the following command in the current working directory:
